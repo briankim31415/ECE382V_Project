@@ -1,0 +1,14 @@
+Found 442 bugs across 1293874 lines of code
+ant-master >> 0 bugs
+jmeter-master >> 0 bugs
+tomcat >> 0 bugs
+lucene-main >> 0 bugs
+exoplayer-release-v2 >> 0 bugs
+tika-main >> 0 bugs
+groovy-master >> 0 bugs
+solr-main >> 0 bugs
+pdfbox-trunk >> 0 bugs
+logging-log4j2-release-2.x >> 0 bugs
+java-design-patterns >> 0 bugs
+spring-framework-main >> 442 bugs
+struts-master >> 0 bugs

@@ -1,0 +1,16 @@
+** Actual files are downloaded and put in this folder **
+
+https://github.com/apache/tomcat
+https://github.com/apache/ant
+https://github.com/apache/groovy
+https://github.com/apache/jmeter
+https://github.com/apache/logging-log4j2
+https://github.com/apache/lucene
+https://github.com/apache/solr
+https://github.com/apache/pdfbox
+https://github.com/apache/struts
+https://github.com/apache/tika
+
+https://github.com/spring-projects/spring-framework
+https://github.com/google/ExoPlayer
+https://github.com/iluwatar/java-design-patterns

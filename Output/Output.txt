@@ -1,0 +1,729 @@
+\spring-framework-main\spring-aop\src\main\java\org\springframework\aop\framework\abstractsingletonproxyfactorybean.java
+	155
+	164
+\spring-framework-main\spring-aop\src\main\java\org\springframework\aop\framework\autoproxy\abstractautoproxycreator.java
+	583
+	597
+\spring-framework-main\spring-aop\src\main\java\org\springframework\aop\framework\autoproxy\beanfactoryadvisorretrievalhelper.java
+	82
+\spring-framework-main\spring-aop\src\main\java\org\springframework\aop\framework\defaultadvisorchainfactory.java
+	62
+\spring-framework-main\spring-aop\src\test\java\org\springframework\aop\interceptor\concurrencythrottleinterceptortests.java
+	101
+\spring-framework-main\spring-beans\src\main\java\org\springframework\beans\abstractnestablepropertyaccessor.java
+	333
+\spring-framework-main\spring-beans\src\main\java\org\springframework\beans\abstractpropertyaccessor.java
+	99
+\spring-framework-main\spring-beans\src\main\java\org\springframework\beans\beanutils.java
+	467
+	795
+\spring-framework-main\spring-beans\src\main\java\org\springframework\beans\extendedbeaninfo.java
+	101
+	116
+\spring-framework-main\spring-beans\src\main\java\org\springframework\beans\factory\annotation\autowiredannotationbeanpostprocessor.java
+	363
+	447
+	803
+\spring-framework-main\spring-beans\src\main\java\org\springframework\beans\factory\annotation\qualifierannotationautowirecandidateresolver.java
+	269
+\spring-framework-main\spring-beans\src\main\java\org\springframework\beans\factory\aot\autowiredmethodargumentsresolver.java
+	178
+\spring-framework-main\spring-beans\src\main\java\org\springframework\beans\factory\aot\beandefinitionpropertyvaluecodegenerator.java
+	408
+	491
+\spring-framework-main\spring-beans\src\main\java\org\springframework\beans\factory\config\beandefinitionvisitor.java
+	266
+\spring-framework-main\spring-beans\src\main\java\org\springframework\beans\factory\config\constructorargumentvalues.java
+	426
+\spring-framework-main\spring-beans\src\main\java\org\springframework\beans\factory\config\mapfactorybean.java
+	99
+\spring-framework-main\spring-beans\src\main\java\org\springframework\beans\factory\config\placeholderconfigurersupport.java
+	221
+\spring-framework-main\spring-beans\src\main\java\org\springframework\beans\factory\config\propertyoverrideconfigurer.java
+	106
+\spring-framework-main\spring-beans\src\main\java\org\springframework\beans\factory\groovy\groovybeandefinitionreader.java
+	344
+	490
+\spring-framework-main\spring-beans\src\main\java\org\springframework\beans\factory\parsing\parsestate.java
+	98
+\spring-framework-main\spring-beans\src\main\java\org\springframework\beans\factory\support\abstractautowirecapablebeanfactory.java
+	751
+	1469
+\spring-framework-main\spring-beans\src\main\java\org\springframework\beans\factory\support\abstractbeanfactory.java
+	306
+	1275
+\spring-framework-main\spring-beans\src\main\java\org\springframework\beans\factory\support\autowireutils.java
+	197
+\spring-framework-main\spring-beans\src\main\java\org\springframework\beans\factory\support\beandefinitionreaderutils.java
+	145
+	169
+\spring-framework-main\spring-beans\src\main\java\org\springframework\beans\factory\support\constructorresolver.java
+	219
+	521
+	671
+	727
+	823
+\spring-framework-main\spring-beans\src\main\java\org\springframework\beans\factory\support\defaultlistablebeanfactory.java
+	550
+	606
+	660
+	1572
+	1592
+	1601
+	1656
+	1678
+	1717
+	1820
+\spring-framework-main\spring-beans\src\main\java\org\springframework\beans\factory\support\defaultsingletonbeanregistry.java
+	610
+\spring-framework-main\spring-beans\src\main\java\org\springframework\beans\factory\support\managedmap.java
+	74
+\spring-framework-main\spring-beans\src\main\java\org\springframework\beans\factory\support\propertiesbeandefinitionreader.java
+	365
+	430
+\spring-framework-main\spring-beans\src\main\java\org\springframework\beans\factory\support\staticlistablebeanfactory.java
+	365
+	408
+\spring-framework-main\spring-beans\src\main\java\org\springframework\beans\factory\xml\beandefinitionparserdelegate.java
+	1181
+\spring-framework-main\spring-beans\src\main\java\org\springframework\beans\propertyeditorregistrysupport.java
+	352
+	414
+\spring-framework-main\spring-beans\src\main\java\org\springframework\beans\support\argumentconvertingmethodinvoker.java
+	146
+\spring-framework-main\spring-beans\src\main\java\org\springframework\beans\typeconverterdelegate.java
+	525
+	600
+\spring-framework-main\spring-beans\src\test\java\org\springframework\beans\concurrentbeanwrappertests.java
+	63
+	85
+\spring-framework-main\spring-beans\src\test\java\org\springframework\beans\factory\support\beandefinitionbuildertests.java
+	43
+\spring-framework-main\spring-beans\src\test\java\org\springframework\beans\factory\xml\collectionswithdefaulttypestests.java
+	74
+\spring-framework-main\spring-context\src\main\java\org\springframework\cache\concurrent\concurrentmapcachemanager.java
+	180
+\spring-framework-main\spring-context\src\main\java\org\springframework\cache\interceptor\cacheaspectsupport.java
+	473
+	533
+	570
+\spring-framework-main\spring-context\src\main\java\org\springframework\context\annotation\autoproxyregistrar.java
+	62
+\spring-framework-main\spring-context\src\main\java\org\springframework\context\annotation\classpathbeandefinitionscanner.java
+	275
+\spring-framework-main\spring-context\src\main\java\org\springframework\context\annotation\classpathscanningcandidatecomponentprovider.java
+	424
+\spring-framework-main\spring-context\src\main\java\org\springframework\context\annotation\componentscanannotationparser.java
+	88
+\spring-framework-main\spring-context\src\main\java\org\springframework\context\annotation\componentscanbeandefinitionparser.java
+	204
+\spring-framework-main\spring-context\src\main\java\org\springframework\context\annotation\configurationclassbeandefinitionreader.java
+	199
+\spring-framework-main\spring-context\src\main\java\org\springframework\context\annotation\configurationclassparser.java
+	160
+	269
+	358
+	481
+	721
+	818
+	904
+	945
+	959
+\spring-framework-main\spring-context\src\main\java\org\springframework\context\annotation\configurationclasspostprocessor.java
+	346
+	395
+	459
+	507
+	623
+\spring-framework-main\spring-context\src\main\java\org\springframework\context\annotation\parserstrategyutils.java
+	94
+\spring-framework-main\spring-context\src\main\java\org\springframework\context\annotation\typefilterutils.java
+	79
+\spring-framework-main\spring-context\src\main\java\org\springframework\context\aot\abstractaotprocessor.java
+	100
+\spring-framework-main\spring-context\src\main\java\org\springframework\context\event\abstractapplicationeventmulticaster.java
+	260
+	464
+	497
+\spring-framework-main\spring-context\src\main\java\org\springframework\context\event\eventlistenermethodprocessor.java
+	111
+\spring-framework-main\spring-context\src\main\java\org\springframework\context\index\candidatecomponentsindex.java
+	62
+\spring-framework-main\spring-context\src\main\java\org\springframework\context\support\postprocessorregistrationdelegate.java
+	88
+	107
+	120
+	133
+	341
+\spring-framework-main\spring-context\src\main\java\org\springframework\format\datetime\dateformatter.java
+	198
+\spring-framework-main\spring-context\src\main\java\org\springframework\format\datetime\standard\temporalaccessorparser.java
+	96
+\spring-framework-main\spring-context\src\main\java\org\springframework\instrument\classloading\weavingtransformer.java
+	93
+\spring-framework-main\spring-context\src\main\java\org\springframework\jmx\access\notificationlistenerregistrar.java
+	170
+\spring-framework-main\spring-context\src\main\java\org\springframework\jmx\export\mbeanexporter.java
+	613
+	877
+	958
+	986
+\spring-framework-main\spring-context\src\main\java\org\springframework\scripting\bsh\bshscriptevaluator.java
+	79
+\spring-framework-main\spring-context\src\main\java\org\springframework\scripting\support\standardscriptutils.java
+	53
+\spring-framework-main\spring-context\src\main\java\org\springframework\ui\concurrentmodel.java
+	81
+\spring-framework-main\spring-context\src\main\java\org\springframework\validation\beanvalidation\localvalidatorfactorybean.java
+	319
+	369
+\spring-framework-main\spring-context\src\main\java\org\springframework\validation\beanvalidation\springvalidatoradapter.java
+	149
+\spring-framework-main\spring-context\src\main\java\org\springframework\validation\databinder.java
+	673
+	696
+\spring-framework-main\spring-context\src\test\java\org\springframework\aop\aspectj\autoproxy\aspectjautoproxycreatortests.java
+	538
+\spring-framework-main\spring-context\src\test\java\org\springframework\context\annotation\importselectortests.java
+	548
+\spring-framework-main\spring-context\src\test\java\org\springframework\context\event\test\eventcollector.java
+	98
+\spring-framework-main\spring-context\src\test\java\org\springframework\scheduling\config\lazyscheduledtasksbeandefinitionparsertests.java
+	44
+\spring-framework-main\spring-context\src\test\java\org\springframework\util\mbeantestutils.java
+	35
+\spring-framework-main\spring-context\src\testfixtures\java\org\springframework\context\testfixture\cache\cachetestutils.java
+	56
+	65
+\spring-framework-main\spring-context\src\testfixtures\java\org\springframework\context\testfixture\jndi\simplenamingcontext.java
+	314
+\spring-framework-main\spring-context-support\src\main\java\org\springframework\cache\caffeine\caffeinecachemanager.java
+	261
+\spring-framework-main\spring-context-support\src\main\java\org\springframework\mail\javamail\javamailsenderimpl.java
+	423
+\spring-framework-main\spring-core\src\main\java\org\springframework\asm\classreader.java
+	2954
+\spring-framework-main\spring-core\src\main\java\org\springframework\asm\symboltable.java
+	264
+	411
+	561
+	640
+	695
+	731
+	766
+	813
+	926
+	1001
+	1098
+	1142
+	1163
+	1194
+\spring-framework-main\spring-core\src\main\java\org\springframework\cglib\core\emitutils.java
+	459
+	466
+	691
+\spring-framework-main\spring-core\src\main\java\org\springframework\cglib\core\reflectutils.java
+	233
+	384
+\spring-framework-main\spring-core\src\main\java\org\springframework\cglib\proxy\enhancer.java
+	1322
+\spring-framework-main\spring-core\src\main\java\org\springframework\core\annotation\annotationattributes.java
+	392
+\spring-framework-main\spring-core\src\main\java\org\springframework\core\annotation\annotationutils.java
+	925
+	977
+\spring-framework-main\spring-core\src\main\java\org\springframework\core\annotation\attributemethods.java
+	109
+	134
+\spring-framework-main\spring-core\src\main\java\org\springframework\core\annotation\typemappedannotations.java
+	572
+\spring-framework-main\spring-core\src\main\java\org\springframework\core\configurableobjectinputstream.java
+	96
+\spring-framework-main\spring-core\src\main\java\org\springframework\core\constants.java
+	66
+	269
+	300
+\spring-framework-main\spring-core\src\main\java\org\springframework\core\convert\support\conversionservicefactory.java
+	50
+\spring-framework-main\spring-core\src\main\java\org\springframework\core\convert\support\maptomapconverter.java
+	81
+	98
+\spring-framework-main\spring-core\src\main\java\org\springframework\core\io\support\pathmatchingresourcepatternresolver.java
+	415
+	468
+	690
+\spring-framework-main\spring-core\src\main\java\org\springframework\core\io\support\propertiesloadersupport.java
+	177
+\spring-framework-main\spring-core\src\main\java\org\springframework\core\io\support\propertiesloaderutils.java
+	178
+\spring-framework-main\spring-core\src\main\java\org\springframework\core\io\support\propertysourceprocessor.java
+	83
+\spring-framework-main\spring-core\src\main\java\org\springframework\core\io\support\resourcearraypropertyeditor.java
+	134
+\spring-framework-main\spring-core\src\main\java\org\springframework\core\methodintrospector.java
+	120
+\spring-framework-main\spring-core\src\main\java\org\springframework\core\style\defaultvaluestyler.java
+	140
+\spring-framework-main\spring-core\src\main\java\org\springframework\core\style\simplevaluestyler.java
+	110
+\spring-framework-main\spring-core\src\main\java\org\springframework\core\type\filter\abstracttypehierarchytraversingfilter.java
+	98
+\spring-framework-main\spring-core\src\main\java\org\springframework\util\classutils.java
+	134
+	1352
+\spring-framework-main\spring-core\src\main\java\org\springframework\util\concurrencythrottlesupport.java
+	114
+\spring-framework-main\spring-core\src\main\java\org\springframework\util\concurrentlrucache.java
+	197
+	238
+\spring-framework-main\spring-core\src\main\java\org\springframework\util\concurrentreferencehashmap.java
+	610
+	643
+\spring-framework-main\spring-core\src\main\java\org\springframework\util\mimetype.java
+	475
+\spring-framework-main\spring-core\src\main\java\org\springframework\util\multivaluemapadapter.java
+	78
+\spring-framework-main\spring-core\src\main\java\org\springframework\util\reflectionutils.java
+	321
+	361
+	672
+	704
+\spring-framework-main\spring-core\src\main\java\org\springframework\util\unmodifiablemultivaluemap.java
+	332
+\spring-framework-main\spring-core\src\main\java\org\springframework\util\xml\staxstreamhandler.java
+	64
+\spring-framework-main\spring-core\src\test\java\org\springframework\core\generictyperesolvertests.java
+	127
+\spring-framework-main\spring-core\src\testfixtures\java\org\springframework\core\testfixture\io\buffer\abstractdatabufferallocatingtests.java
+	112
+	131
+\spring-framework-main\spring-core\src\testfixtures\java\org\springframework\core\testfixture\io\buffer\leakawaredatabufferfactory.java
+	93
+\spring-framework-main\spring-core\src\testfixtures\java\org\springframework\core\testfixture\testgroup.java
+	98
+\spring-framework-main\spring-expression\src\main\java\org\springframework\expression\spel\ast\compoundexpression.java
+	57
+\spring-framework-main\spring-expression\src\main\java\org\springframework\expression\spel\ast\constructorreference.java
+	197
+	360
+\spring-framework-main\spring-expression\src\main\java\org\springframework\expression\spel\ast\indexer.java
+	671
+\spring-framework-main\spring-expression\src\main\java\org\springframework\expression\spel\ast\methodreference.java
+	160
+	203
+\spring-framework-main\spring-expression\src\main\java\org\springframework\expression\spel\ast\projection.java
+	76
+	96
+\spring-framework-main\spring-expression\src\main\java\org\springframework\expression\spel\ast\propertyorfieldreference.java
+	274
+\spring-framework-main\spring-expression\src\main\java\org\springframework\expression\spel\ast\selection.java
+	96
+	143
+\spring-framework-main\spring-expression\src\main\java\org\springframework\expression\spel\support\standardtypelocator.java
+	108
+\spring-framework-main\spring-jdbc\src\main\java\org\springframework\jdbc\config\sortedresourcesfactorybean.java
+	74
+\spring-framework-main\spring-jdbc\src\main\java\org\springframework\jdbc\core\argumenttypepreparedstatementsetter.java
+	62
+\spring-framework-main\spring-jdbc\src\main\java\org\springframework\jdbc\core\beanpropertyrowmapper.java
+	307
+\spring-framework-main\spring-jdbc\src\main\java\org\springframework\jdbc\core\dataclassrowmapper.java
+	100
+\spring-framework-main\spring-jdbc\src\main\java\org\springframework\jdbc\core\metadata\tablemetadatacontext.java
+	251
+\spring-framework-main\spring-jdbc\src\main\java\org\springframework\jdbc\core\namedparam\abstractsqlparametersource.java
+	106
+\spring-framework-main\spring-jdbc\src\main\java\org\springframework\jdbc\core\namedparam\namedparameterutils.java
+	286
+	355
+\spring-framework-main\spring-jdbc\src\main\java\org\springframework\jdbc\core\preparedstatementcreatorfactory.java
+	250
+\spring-framework-main\spring-jdbc\src\main\java\org\springframework\jdbc\datasource\init\scriptutils.java
+	258
+\spring-framework-main\spring-jdbc\src\main\java\org\springframework\jdbc\support\databasestartupvalidator.java
+	121
+\spring-framework-main\spring-jdbc\src\main\java\org\springframework\jdbc\support\incrementer\abstractidentitycolumnmaxvalueincrementer.java
+	98
+\spring-framework-main\spring-jdbc\src\main\java\org\springframework\jdbc\support\lob\temporarylobcreator.java
+	182
+\spring-framework-main\spring-jdbc\src\test\java\org\springframework\jdbc\datasource\datasourcejtatransactiontests.java
+	252
+\spring-framework-main\spring-jms\src\main\java\org\springframework\jms\config\jmslistenerendpointregistrar.java
+	141
+\spring-framework-main\spring-jms\src\main\java\org\springframework\jms\config\jmslistenerendpointregistry.java
+	248
+\spring-framework-main\spring-jms\src\main\java\org\springframework\jms\connection\cachingconnectionfactory.java
+	218
+	479
+\spring-framework-main\spring-jms\src\main\java\org\springframework\jms\connection\jmsresourceholder.java
+	238
+	283
+\spring-framework-main\spring-jms\src\main\java\org\springframework\jms\listener\abstractjmslisteningcontainer.java
+	542
+\spring-framework-main\spring-jms\src\main\java\org\springframework\jms\listener\defaultmessagelistenercontainer.java
+	980
+	1195
+\spring-framework-main\spring-jms\src\main\java\org\springframework\jms\support\converter\simplemessageconverter.java
+	150
+\spring-framework-main\spring-jms\src\main\java\org\springframework\jms\support\simplejmsheadermapper.java
+	94
+	209
+\spring-framework-main\spring-messaging\src\main\java\org\springframework\messaging\handler\annotation\support\annotationexceptionhandlermethodresolver.java
+	57
+\spring-framework-main\spring-messaging\src\main\java\org\springframework\messaging\handler\invocation\abstractmethodmessagehandler.java
+	254
+	646
+\spring-framework-main\spring-messaging\src\main\java\org\springframework\messaging\handler\invocation\invocablehandlermethod.java
+	135
+\spring-framework-main\spring-messaging\src\main\java\org\springframework\messaging\handler\invocation\reactive\abstractmethodmessagehandler.java
+	296
+\spring-framework-main\spring-messaging\src\main\java\org\springframework\messaging\handler\invocation\reactive\invocablehandlermethod.java
+	168
+\spring-framework-main\spring-messaging\src\main\java\org\springframework\messaging\handler\invocation\reactive\invocablehelper.java
+	166
+\spring-framework-main\spring-messaging\src\main\java\org\springframework\messaging\rsocket\annotation\support\messagingrsocket.java
+	196
+\spring-framework-main\spring-messaging\src\main\java\org\springframework\messaging\rsocket\defaultmetadataextractor.java
+	105
+	120
+\spring-framework-main\spring-messaging\src\main\java\org\springframework\messaging\rsocket\metadataencoder.java
+	164
+	264
+\spring-framework-main\spring-messaging\src\main\java\org\springframework\messaging\rsocket\service\rsocketservicemethod.java
+	182
+	193
+\spring-framework-main\spring-messaging\src\main\java\org\springframework\messaging\simp\broker\orderedmessagechanneldecorator.java
+	88
+\spring-framework-main\spring-messaging\src\main\java\org\springframework\messaging\simp\broker\simplebrokermessagehandler.java
+	396
+\spring-framework-main\spring-messaging\src\main\java\org\springframework\messaging\simp\stomp\stompdecoder.java
+	203
+	212
+	224
+\spring-framework-main\spring-messaging\src\main\java\org\springframework\messaging\simp\stomp\stompencoder.java
+	132
+\spring-framework-main\spring-messaging\src\main\java\org\springframework\messaging\simp\user\multiserveruserregistry.java
+	122
+	135
+	145
+	155
+	570
+\spring-framework-main\spring-messaging\src\main\java\org\springframework\messaging\support\abstractmessagechannel.java
+	205
+	242
+\spring-framework-main\spring-messaging\src\main\java\org\springframework\messaging\support\executorsubscribablechannel.java
+	182
+\spring-framework-main\spring-messaging\src\main\java\org\springframework\messaging\tcp\reactor\reactornetty2tcpclient.java
+	276
+\spring-framework-main\spring-messaging\src\main\java\org\springframework\messaging\tcp\reactor\reactornettytcpclient.java
+	274
+\spring-framework-main\spring-messaging\src\test\java\org\springframework\messaging\protobuf\msg.java
+	62
+\spring-framework-main\spring-messaging\src\test\java\org\springframework\messaging\protobuf\secondmsg.java
+	46
+\spring-framework-main\spring-messaging\src\test\java\org\springframework\messaging\rsocket\leakawarenettydatabufferfactory.java
+	52
+\spring-framework-main\spring-messaging\src\test\java\org\springframework\messaging\rsocket\rsocketbufferleaktests.java
+	258
+\spring-framework-main\spring-messaging\src\test\java\org\springframework\messaging\simp\annotation\support\simpannotationmethodmessagehandlertests.java
+	402
+\spring-framework-main\spring-messaging\src\test\java\org\springframework\messaging\simp\broker\defaultsubscriptionregistrytests.java
+	89
+	120
+	353
+	376
+\spring-framework-main\spring-orm\src\main\java\org\springframework\orm\hibernate5\localsessionfactorybuilder.java
+	317
+\spring-framework-main\spring-orm\src\main\java\org\springframework\orm\jpa\abstractentitymanagerfactorybean.java
+	502
+\spring-framework-main\spring-orm\src\main\java\org\springframework\orm\jpa\persistenceunit\persistencemanagedtypesbeanregistrationaotprocessor.java
+	126
+\spring-framework-main\spring-orm\src\main\java\org\springframework\orm\jpa\persistenceunit\persistencemanagedtypesscanner.java
+	111
+\spring-framework-main\spring-orm\src\main\java\org\springframework\orm\jpa\persistenceunit\persistenceunitreader.java
+	129
+	300
+\spring-framework-main\spring-orm\src\main\java\org\springframework\orm\jpa\sharedentitymanagercreator.java
+	419
+\spring-framework-main\spring-oxm\src\main\java\org\springframework\oxm\jaxb\jaxb2marshaller.java
+	766
+	920
+\spring-framework-main\spring-oxm\src\main\java\org\springframework\oxm\xstream\xstreammarshaller.java
+	462
+	530
+	556
+	616
+\spring-framework-main\spring-r2dbc\src\main\java\org\springframework\r2dbc\core\namedparameterutils.java
+	293
+\spring-framework-main\spring-test\src\main\java\org\springframework\mock\web\mockasynccontext.java
+	124
+\spring-framework-main\spring-test\src\main\java\org\springframework\mock\web\mockcookie.java
+	118
+\spring-framework-main\spring-test\src\main\java\org\springframework\mock\web\mockhttpservletrequest.java
+	1141
+\spring-framework-main\spring-test\src\main\java\org\springframework\mock\web\mockhttpsession.java
+	197
+	249
+\spring-framework-main\spring-test\src\main\java\org\springframework\mock\web\mockservletcontext.java
+	307
+\spring-framework-main\spring-test\src\main\java\org\springframework\test\context\cache\defaultcacheawarecontextloaderdelegate.java
+	130
+\spring-framework-main\spring-test\src\main\java\org\springframework\test\context\cache\defaultcontextcache.java
+	183
+\spring-framework-main\spring-test\src\main\java\org\springframework\test\context\support\abstracttestcontextbootstrapper.java
+	204
+\spring-framework-main\spring-test\src\main\java\org\springframework\test\context\support\activeprofilesutils.java
+	84
+\spring-framework-main\spring-test\src\main\java\org\springframework\test\context\support\testpropertysourceutils.java
+	307
+\spring-framework-main\spring-test\src\main\java\org\springframework\test\context\testcontextmanager.java
+	204
+	239
+	286
+	325
+	376
+	438
+	485
+\spring-framework-main\spring-test\src\main\java\org\springframework\test\context\transaction\transactionaltestexecutionlistener.java
+	316
+\spring-framework-main\spring-test\src\main\java\org\springframework\test\web\client\abstractrequestexpectationmanager.java
+	224
+\spring-framework-main\spring-test\src\main\java\org\springframework\test\web\client\match\contentrequestmatchers.java
+	179
+	228
+\spring-framework-main\spring-test\src\main\java\org\springframework\test\web\servlet\request\mockhttpservletrequestbuilder.java
+	596
+	608
+	625
+	637
+\spring-framework-main\spring-test\src\test\java\org\springframework\test\web\servlet\result\statusresultmatcherstests.java
+	52
+\spring-framework-main\spring-tx\src\main\java\org\springframework\transaction\jta\jtatransactionmanager.java
+	713
+\spring-framework-main\spring-tx\src\main\java\org\springframework\transaction\support\transactionsynchronizationutils.java
+	106
+	170
+\spring-framework-main\spring-tx\src\test\java\org\springframework\transaction\event\transactionaleventlistenertests.java
+	428
+\spring-framework-main\spring-web\src\main\java\org\springframework\http\client\multipartbodybuilder.java
+	224
+\spring-framework-main\spring-web\src\main\java\org\springframework\http\client\reactive\jdkclienthttprequest.java
+	95
+\spring-framework-main\spring-web\src\main\java\org\springframework\http\codec\json\jackson2codecsupport.java
+	165
+	187
+	276
+\spring-framework-main\spring-web\src\main\java\org\springframework\http\codec\multipart\multipartwritersupport.java
+	170
+\spring-framework-main\spring-web\src\main\java\org\springframework\http\codec\protobuf\protobufdecoder.java
+	216
+\spring-framework-main\spring-web\src\main\java\org\springframework\http\codec\serversenteventhttpmessagereader.java
+	148
+\spring-framework-main\spring-web\src\main\java\org\springframework\http\contentdisposition.java
+	349
+	501
+\spring-framework-main\spring-web\src\main\java\org\springframework\http\converter\formhttpmessageconverter.java
+	502
+	637
+\spring-framework-main\spring-web\src\main\java\org\springframework\http\converter\json\abstractjackson2httpmessageconverter.java
+	198
+	209
+	303
+\spring-framework-main\spring-web\src\main\java\org\springframework\http\httpheaders.java
+	1521
+\spring-framework-main\spring-web\src\main\java\org\springframework\http\server\reactive\abstractlistenerreadpublisher.java
+	193
+\spring-framework-main\spring-web\src\main\java\org\springframework\http\server\servletserverhttprequest.java
+	240
+\spring-framework-main\spring-web\src\main\java\org\springframework\web\bind\unsatisfiedservletrequestparameterexception.java
+	115
+\spring-framework-main\spring-web\src\main\java\org\springframework\web\context\contextcleanuplistener.java
+	64
+\spring-framework-main\spring-web\src\main\java\org\springframework\web\context\request\async\callableinterceptorchain.java
+	71
+	92
+	123
+	141
+\spring-framework-main\spring-web\src\main\java\org\springframework\web\context\request\async\deferredresultinterceptorchain.java
+	105
+\spring-framework-main\spring-web\src\main\java\org\springframework\web\context\request\servletrequestattributes.java
+	279
+\spring-framework-main\spring-web\src\main\java\org\springframework\web\context\request\servletwebrequest.java
+	396
+\spring-framework-main\spring-web\src\main\java\org\springframework\web\context\support\annotationconfigwebapplicationcontext.java
+	246
+\spring-framework-main\spring-web\src\main\java\org\springframework\web\context\support\servletcontextattributeexporter.java
+	71
+\spring-framework-main\spring-web\src\main\java\org\springframework\web\context\support\servletcontextresourcepatternresolver.java
+	161
+\spring-framework-main\spring-web\src\main\java\org\springframework\web\cors\reactive\urlbasedcorsconfigurationsource.java
+	84
+\spring-framework-main\spring-web\src\main\java\org\springframework\web\cors\urlbasedcorsconfigurationsource.java
+	246
+\spring-framework-main\spring-web\src\main\java\org\springframework\web\method\annotation\modelattributemethodprocessor.java
+	260
+	405
+\spring-framework-main\spring-web\src\main\java\org\springframework\web\method\support\invocablehandlermethod.java
+	170
+\spring-framework-main\spring-web\src\main\java\org\springframework\web\server\i18n\acceptheaderlocalecontextresolver.java
+	111
+\spring-framework-main\spring-web\src\main\java\org\springframework\web\service\invoker\abstractnamedvalueargumentresolver.java
+	89
+\spring-framework-main\spring-web\src\main\java\org\springframework\web\service\invoker\httprequestvalues.java
+	454
+\spring-framework-main\spring-web\src\main\java\org\springframework\web\springservletcontainerinitializer.java
+	147
+\spring-framework-main\spring-web\src\main\java\org\springframework\web\util\uriutils.java
+	265
+\spring-framework-main\spring-web\src\test\java\org\springframework\http\httpstatustests.java
+	111
+\spring-framework-main\spring-web\src\test\java\org\springframework\protobuf\msg.java
+	62
+\spring-framework-main\spring-web\src\test\java\org\springframework\protobuf\secondmsg.java
+	46
+\spring-framework-main\spring-web\src\test\java\org\springframework\web\util\htmlcharacterentityreferencestests.java
+	98
+\spring-framework-main\spring-web\src\testfixtures\java\org\springframework\web\testfixture\servlet\mockasynccontext.java
+	124
+\spring-framework-main\spring-web\src\testfixtures\java\org\springframework\web\testfixture\servlet\mockcookie.java
+	118
+\spring-framework-main\spring-web\src\testfixtures\java\org\springframework\web\testfixture\servlet\mockhttpservletrequest.java
+	1141
+\spring-framework-main\spring-web\src\testfixtures\java\org\springframework\web\testfixture\servlet\mockhttpsession.java
+	197
+	249
+\spring-framework-main\spring-web\src\testfixtures\java\org\springframework\web\testfixture\servlet\mockservletcontext.java
+	307
+\spring-framework-main\spring-webflux\src\main\java\org\springframework\web\reactive\function\client\defaultwebclient.java
+	698
+\spring-framework-main\spring-webflux\src\main\java\org\springframework\web\reactive\function\client\webclientrequestexception.java
+	61
+\spring-framework-main\spring-webflux\src\main\java\org\springframework\web\reactive\function\client\webclientresponseexception.java
+	155
+\spring-framework-main\spring-webflux\src\main\java\org\springframework\web\reactive\handler\simpleurlhandlermapping.java
+	148
+\spring-framework-main\spring-webflux\src\main\java\org\springframework\web\reactive\resource\encodedresourceresolver.java
+	146
+\spring-framework-main\spring-webflux\src\main\java\org\springframework\web\reactive\resource\resourcewebhandler.java
+	498
+\spring-framework-main\spring-webflux\src\main\java\org\springframework\web\reactive\result\condition\abstractmediatypeexpression.java
+	85
+\spring-framework-main\spring-webflux\src\main\java\org\springframework\web\reactive\result\method\abstracthandlermethodmapping.java
+	177
+	365
+\spring-framework-main\spring-webflux\src\main\java\org\springframework\web\reactive\result\method\annotation\controllermethodresolver.java
+	357
+\spring-framework-main\spring-webflux\src\main\java\org\springframework\web\reactive\result\method\annotation\requestmappinghandlermapping.java
+	156
+\spring-framework-main\spring-webflux\src\main\java\org\springframework\web\reactive\result\method\invocablehandlermethod.java
+	193
+\spring-framework-main\spring-webflux\src\main\java\org\springframework\web\reactive\result\view\abstractview.java
+	223
+	249
+\spring-framework-main\spring-webflux\src\main\java\org\springframework\web\reactive\result\view\script\scripttemplateview.java
+	293
+\spring-framework-main\spring-webflux\src\main\java\org\springframework\web\reactive\result\view\viewresolutionresulthandler.java
+	294
+\spring-framework-main\spring-webflux\src\test\java\org\springframework\web\reactive\function\server\renderingresponseintegrationtests.java
+	153
+\spring-framework-main\spring-webflux\src\test\java\org\springframework\web\reactive\protobuf\msg.java
+	62
+\spring-framework-main\spring-webflux\src\test\java\org\springframework\web\reactive\protobuf\secondmsg.java
+	46
+\spring-framework-main\spring-webflux\src\test\java\org\springframework\web\reactive\result\method\annotation\abstractrequestmappingintegrationtests.java
+	136
+\spring-framework-main\spring-webmvc\src\main\java\org\springframework\web\servlet\config\annotation\webmvcconfigurercomposite.java
+	80
+	87
+	94
+	101
+	108
+	115
+\spring-framework-main\spring-webmvc\src\main\java\org\springframework\web\servlet\dispatcherservlet.java
+	890
+\spring-framework-main\spring-webmvc\src\main\java\org\springframework\web\servlet\handler\abstracthandlermapping.java
+	424
+\spring-framework-main\spring-webmvc\src\main\java\org\springframework\web\servlet\handler\abstracthandlermethodmapping.java
+	446
+\spring-framework-main\spring-webmvc\src\main\java\org\springframework\web\servlet\handler\handlermappingintrospector.java
+	170
+	232
+\spring-framework-main\spring-webmvc\src\main\java\org\springframework\web\servlet\handlerexecutionchain.java
+	173
+	188
+\spring-framework-main\spring-webmvc\src\main\java\org\springframework\web\servlet\i18n\acceptheaderlocaleresolver.java
+	92
+\spring-framework-main\spring-webmvc\src\main\java\org\springframework\web\servlet\mvc\condition\abstractmediatypeexpression.java
+	85
+\spring-framework-main\spring-webmvc\src\main\java\org\springframework\web\servlet\mvc\method\annotation\exceptionhandlerexceptionresolver.java
+	477
+\spring-framework-main\spring-webmvc\src\main\java\org\springframework\web\servlet\mvc\method\annotation\requestmappinghandlermapping.java
+	318
+\spring-framework-main\spring-webmvc\src\main\java\org\springframework\web\servlet\mvc\method\annotation\sseemitter.java
+	126
+\spring-framework-main\spring-webmvc\src\main\java\org\springframework\web\servlet\mvc\webcontentinterceptor.java
+	255
+	272
+	289
+	306
+\spring-framework-main\spring-webmvc\src\main\java\org\springframework\web\servlet\resource\encodedresourceresolver.java
+	143
+\spring-framework-main\spring-webmvc\src\main\java\org\springframework\web\servlet\resource\pathresourceresolver.java
+	154
+\spring-framework-main\spring-webmvc\src\main\java\org\springframework\web\servlet\resource\resourcehttprequesthandler.java
+	659
+\spring-framework-main\spring-webmvc\src\main\java\org\springframework\web\servlet\support\abstractflashmapmanager.java
+	174
+\spring-framework-main\spring-webmvc\src\main\java\org\springframework\web\servlet\tags\form\abstracthtmlelementtag.java
+	489
+\spring-framework-main\spring-webmvc\src\main\java\org\springframework\web\servlet\tags\form\abstractmulticheckedelementtag.java
+	221
+	229
+	237
+\spring-framework-main\spring-webmvc\src\main\java\org\springframework\web\servlet\tags\form\formtag.java
+	708
+\spring-framework-main\spring-webmvc\src\main\java\org\springframework\web\servlet\tags\form\optionwriter.java
+	166
+\spring-framework-main\spring-webmvc\src\main\java\org\springframework\web\servlet\tags\urltag.java
+	324
+	360
+\spring-framework-main\spring-webmvc\src\main\java\org\springframework\web\servlet\view\redirectview.java
+	458
+\spring-framework-main\spring-webmvc\src\main\java\org\springframework\web\servlet\view\script\scripttemplateview.java
+	338
+\spring-framework-main\spring-webmvc\src\main\java\org\springframework\web\servlet\view\xml\mappingjackson2xmlview.java
+	92
+\spring-framework-main\spring-webmvc\src\main\java\org\springframework\web\servlet\view\xml\marshallingview.java
+	146
+\spring-framework-main\spring-webmvc\src\test\java\org\springframework\web\servlet\view\feed\atomfeedviewtests.java
+	72
+\spring-framework-main\spring-websocket\src\main\java\org\springframework\web\socket\config\annotation\delegatingwebsocketconfiguration.java
+	51
+\spring-framework-main\spring-websocket\src\main\java\org\springframework\web\socket\config\annotation\delegatingwebsocketmessagebrokerconfiguration.java
+	59
+	112
+\spring-framework-main\spring-websocket\src\main\java\org\springframework\web\socket\handler\concurrentwebsocketsessiondecorator.java
+	162
+\spring-framework-main\spring-websocket\src\main\java\org\springframework\web\socket\messaging\stompsubprotocolhandler.java
+	271
+\spring-framework-main\spring-websocket\src\main\java\org\springframework\web\socket\messaging\subprotocolwebsockethandler.java
+	286
+	492
+\spring-framework-main\spring-websocket\src\main\java\org\springframework\web\socket\messaging\websocketstompclient.java
+	438
+\spring-framework-main\spring-websocket\src\main\java\org\springframework\web\socket\server\support\handshakeinterceptorchain.java
+	75
+\spring-framework-main\spring-websocket\src\main\java\org\springframework\web\socket\sockjs\client\abstractclientsockjssession.java
+	302
+\spring-framework-main\spring-websocket\src\main\java\org\springframework\web\socket\sockjs\client\resttemplatexhrtransport.java
+	109
+\spring-framework-main\spring-websocket\src\main\java\org\springframework\web\socket\sockjs\client\undertowxhrtransport.java
+	175
+\spring-framework-main\spring-websocket\src\main\java\org\springframework\web\socket\sockjs\transport\session\abstractsockjssession.java
+	380
+\spring-framework-main\spring-websocket\src\main\java\org\springframework\web\socket\sockjs\transport\transporthandlingsockjsservice.java
+	387
+\spring-framework-main\spring-websocket\src\test\java\org\springframework\web\socket\sockjs\client\abstractsockjsintegrationtests.java
+	185
+	301
+	420
